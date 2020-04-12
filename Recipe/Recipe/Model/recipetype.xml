@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<category>
+    <type id="1">
+        <title>Pasta</title>
+    </type>
+    <type id="2">
+        <title>Soup</title>
+    </type>
+    <type id="3">
+        <title>Rice</title>
+    </type>
+</category>
